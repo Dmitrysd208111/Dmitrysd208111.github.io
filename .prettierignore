@@ -1,0 +1,7 @@
+node_modules
+dist
+package-lock.json
+src/data/*.json
+products-source.json
+public
+docs/licenses

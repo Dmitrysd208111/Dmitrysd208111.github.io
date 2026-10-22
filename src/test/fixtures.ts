@@ -1,0 +1,48 @@
+import type { Product } from '../types/product'
+export const product: Product = {
+  id: '1',
+  slug: 'test-phone',
+  name: 'Test Phone',
+  brand: 'Apple',
+  category: 'smartphones',
+  price: 20000,
+  oldPrice: 22000,
+  rating: 4.8,
+  reviews: 32,
+  popularity: 100,
+  isNew: false,
+  subtitle: 'Смартфон',
+  description: 'Демонстрационный товар',
+  images: ['/test.webp'],
+  specs: {},
+  source: 'test',
+  variants: [
+    { id: 'standard', label: 'Стандартный', price: 20000, stock: 3 },
+    { id: 'gift', label: 'Подарочный', price: 20990, stock: 2 },
+  ],
+}
+export const products: Product[] = [
+  product,
+  {
+    ...product,
+    id: '2',
+    slug: 'laptop',
+    name: 'Laptop Pro',
+    brand: 'Dell',
+    category: 'laptops',
+    price: 60000,
+    popularity: 200,
+    isNew: true,
+    variants: [{ id: 'standard', label: 'Стандартный', price: 60000, stock: 4 }],
+  },
+  {
+    ...product,
+    id: '3',
+    slug: 'sold-out',
+    name: 'Another Phone',
+    brand: 'Samsung',
+    price: 10000,
+    popularity: 50,
+    variants: [{ id: 'standard', label: 'Стандартный', price: 10000, stock: 0 }],
+  },
+]

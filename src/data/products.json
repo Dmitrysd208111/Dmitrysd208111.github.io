@@ -1,0 +1,1683 @@
+[
+  {
+    "id": "78",
+    "slug": "apple-macbook-pro-14-inch-space-grey",
+    "name": "MacBook Pro 14″",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 169990,
+    "oldPrice": 192100,
+    "rating": 4.5,
+    "reviews": 18,
+    "popularity": 990,
+    "isNew": true,
+    "subtitle": "Мощность в каждой детали",
+    "description": "MacBook Pro 14″ — инструмент для работы, творчества и смелых идей. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/78-1.webp",
+      "/images/products/78-2.webp",
+      "/images/products/78-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "MacBook Pro 14″",
+      "Категория": "Ноутбуки",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Ноутбук",
+      "Подключение": "Wi-Fi, Bluetooth",
+      "Клавиатура": "С подсветкой"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 169990,
+        "stock": 3
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 170980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp"
+  },
+  {
+    "id": "79",
+    "slug": "asus-zenbook-pro-dual-screen-laptop",
+    "name": "ASUS Zenbook Pro Duo",
+    "brand": "Asus",
+    "category": "laptops",
+    "price": 159990,
+    "rating": 4.6,
+    "reviews": 25,
+    "popularity": 940,
+    "isNew": true,
+    "subtitle": "Мощность в каждой детали",
+    "description": "ASUS Zenbook Pro Duo — инструмент для работы, творчества и смелых идей. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/79-1.webp",
+      "/images/products/79-2.webp",
+      "/images/products/79-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Asus",
+      "Модель": "ASUS Zenbook Pro Duo",
+      "Категория": "Ноутбуки",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Ноутбук",
+      "Подключение": "Wi-Fi, Bluetooth",
+      "Клавиатура": "С подсветкой"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 159990,
+        "stock": 4
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 160980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp"
+  },
+  {
+    "id": "80",
+    "slug": "huawei-matebook-x-pro",
+    "name": "HUAWEI MateBook X Pro",
+    "brand": "Huawei",
+    "category": "laptops",
+    "price": 119990,
+    "rating": 4.7,
+    "reviews": 32,
+    "popularity": 98,
+    "isNew": false,
+    "subtitle": "Мощность в каждой детали",
+    "description": "HUAWEI MateBook X Pro — инструмент для работы, творчества и смелых идей. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/80-1.webp",
+      "/images/products/80-2.webp",
+      "/images/products/80-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Huawei",
+      "Модель": "HUAWEI MateBook X Pro",
+      "Категория": "Ноутбуки",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Ноутбук",
+      "Подключение": "Wi-Fi, Bluetooth",
+      "Клавиатура": "С подсветкой"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 119990,
+        "stock": 5
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 120980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp"
+  },
+  {
+    "id": "81",
+    "slug": "lenovo-yoga-920",
+    "name": "Lenovo Yoga 920",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "price": 89990,
+    "oldPrice": 101700,
+    "rating": 4.8,
+    "reviews": 39,
+    "popularity": 97,
+    "isNew": false,
+    "subtitle": "Мощность в каждой детали",
+    "description": "Lenovo Yoga 920 — инструмент для работы, творчества и смелых идей. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/81-1.webp",
+      "/images/products/81-2.webp",
+      "/images/products/81-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Lenovo",
+      "Модель": "Lenovo Yoga 920",
+      "Категория": "Ноутбуки",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Ноутбук",
+      "Подключение": "Wi-Fi, Bluetooth",
+      "Клавиатура": "С подсветкой"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 89990,
+        "stock": 6
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 90980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp"
+  },
+  {
+    "id": "82",
+    "slug": "new-dell-xps-13-9300-laptop",
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 109990,
+    "rating": 4.9,
+    "reviews": 46,
+    "popularity": 96,
+    "isNew": false,
+    "subtitle": "Мощность в каждой детали",
+    "description": "Dell XPS 13 — инструмент для работы, творчества и смелых идей. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/82-1.webp",
+      "/images/products/82-2.webp",
+      "/images/products/82-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Dell",
+      "Модель": "Dell XPS 13",
+      "Категория": "Ноутбуки",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Ноутбук",
+      "Подключение": "Wi-Fi, Bluetooth",
+      "Клавиатура": "С подсветкой"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 109990,
+        "stock": 7
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 110980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp"
+  },
+  {
+    "id": "99",
+    "slug": "amazon-echo-plus",
+    "name": "Amazon Echo Plus",
+    "brand": "Amazon",
+    "category": "audio",
+    "price": 12990,
+    "rating": 4.5,
+    "reviews": 53,
+    "popularity": 95,
+    "isNew": false,
+    "subtitle": "Ваш личный мир звука",
+    "description": "Amazon Echo Plus — любимые треки, новые открытия и удовольствие от каждой детали звучания. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/99-1.webp",
+      "/images/products/99-2.webp"
+    ],
+    "specs": {
+      "Бренд": "Amazon",
+      "Модель": "Amazon Echo Plus",
+      "Категория": "Аудио",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Подключение": "Беспроводное",
+      "Интерфейс": "Bluetooth / Wi-Fi"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 12990,
+        "stock": 8
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 13980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp"
+  },
+  {
+    "id": "100",
+    "slug": "apple-airpods",
+    "name": "Apple AirPods",
+    "brand": "Apple",
+    "category": "audio",
+    "price": 16990,
+    "oldPrice": 19200,
+    "rating": 4.6,
+    "reviews": 60,
+    "popularity": 94,
+    "isNew": false,
+    "subtitle": "Ваш личный мир звука",
+    "description": "Apple AirPods — любимые треки, новые открытия и удовольствие от каждой детали звучания. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/100-1.webp",
+      "/images/products/100-2.webp",
+      "/images/products/100-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "Apple AirPods",
+      "Категория": "Аудио",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Подключение": "Беспроводное",
+      "Интерфейс": "Bluetooth / Wi-Fi"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 16990,
+        "stock": 9
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 17980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp"
+  },
+  {
+    "id": "101",
+    "slug": "apple-airpods-max-silver",
+    "name": "AirPods Max",
+    "brand": "Apple",
+    "category": "audio",
+    "price": 54990,
+    "rating": 4.7,
+    "reviews": 67,
+    "popularity": 1000,
+    "isNew": true,
+    "tag": "Выбор VELTRIX",
+    "subtitle": "Ваш личный мир звука",
+    "description": "AirPods Max — любимые треки, новые открытия и удовольствие от каждой детали звучания. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/101-1.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "AirPods Max",
+      "Категория": "Аудио",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Подключение": "Беспроводное",
+      "Интерфейс": "Bluetooth / Wi-Fi"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 54990,
+        "stock": 10
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 55980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+  },
+  {
+    "id": "102",
+    "slug": "apple-airpower-wireless-charger",
+    "name": "Apple AirPower",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 4990,
+    "rating": 4.8,
+    "reviews": 74,
+    "popularity": 92,
+    "isNew": false,
+    "subtitle": "Продумано до мелочей",
+    "description": "Apple AirPower — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/102-1.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "Apple AirPower",
+      "Категория": "Аксессуары",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 4990,
+        "stock": 11
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 5980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
+  },
+  {
+    "id": "103",
+    "slug": "apple-homepod-mini-cosmic-grey",
+    "name": "HomePod mini",
+    "brand": "Apple",
+    "category": "audio",
+    "price": 12990,
+    "oldPrice": 14700,
+    "rating": 4.9,
+    "reviews": 81,
+    "popularity": 950,
+    "isNew": true,
+    "subtitle": "Ваш личный мир звука",
+    "description": "HomePod mini — любимые треки, новые открытия и удовольствие от каждой детали звучания. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/103-1.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "HomePod mini",
+      "Категория": "Аудио",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Подключение": "Беспроводное",
+      "Интерфейс": "Bluetooth / Wi-Fi"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 12990,
+        "stock": 3
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 13980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
+  },
+  {
+    "id": "104",
+    "slug": "apple-iphone-charger",
+    "name": "Адаптер Apple USB",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 2490,
+    "rating": 4.5,
+    "reviews": 88,
+    "popularity": 90,
+    "isNew": false,
+    "subtitle": "Продумано до мелочей",
+    "description": "Адаптер Apple USB — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/104-1.webp",
+      "/images/products/104-2.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "Адаптер Apple USB",
+      "Категория": "Аксессуары",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 2490,
+        "stock": 4
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 3480,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp"
+  },
+  {
+    "id": "105",
+    "slug": "apple-magsafe-battery-pack",
+    "name": "MagSafe Battery Pack",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 9990,
+    "rating": 4.6,
+    "reviews": 95,
+    "popularity": 89,
+    "isNew": false,
+    "subtitle": "Продумано до мелочей",
+    "description": "MagSafe Battery Pack — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/105-1.webp",
+      "/images/products/105-2.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "MagSafe Battery Pack",
+      "Категория": "Аксессуары",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 9990,
+        "stock": 5
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 10980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp"
+  },
+  {
+    "id": "106",
+    "slug": "apple-watch-series-4-gold",
+    "name": "Apple Watch Series 4",
+    "brand": "Apple",
+    "category": "watches",
+    "price": 24990,
+    "oldPrice": 28200,
+    "rating": 4.7,
+    "reviews": 102,
+    "popularity": 970,
+    "isNew": false,
+    "subtitle": "Ваш ритм. Ваши правила.",
+    "description": "Apple Watch Series 4 — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/106-1.webp",
+      "/images/products/106-2.webp",
+      "/images/products/106-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "Apple Watch Series 4",
+      "Категория": "Часы",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 24990,
+        "stock": 6
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 25980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp"
+  },
+  {
+    "id": "107",
+    "slug": "beats-flex-wireless-earphones",
+    "name": "Beats Flex",
+    "brand": "Beats",
+    "category": "audio",
+    "price": 6990,
+    "rating": 4.8,
+    "reviews": 109,
+    "popularity": 930,
+    "isNew": false,
+    "subtitle": "Ваш личный мир звука",
+    "description": "Beats Flex — любимые треки, новые открытия и удовольствие от каждой детали звучания. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/107-1.webp"
+    ],
+    "specs": {
+      "Бренд": "Beats",
+      "Модель": "Beats Flex",
+      "Категория": "Аудио",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Подключение": "Беспроводное",
+      "Интерфейс": "Bluetooth / Wi-Fi"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 6990,
+        "stock": 7
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 7980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+  },
+  {
+    "id": "108",
+    "slug": "iphone-12-silicone-case-with-magsafe-plum",
+    "name": "Чехол MagSafe для iPhone 12",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 4990,
+    "rating": 4.9,
+    "reviews": 116,
+    "popularity": 86,
+    "isNew": false,
+    "subtitle": "Продумано до мелочей",
+    "description": "Чехол MagSafe для iPhone 12 — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/108-1.webp",
+      "/images/products/108-2.webp",
+      "/images/products/108-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "Чехол MagSafe для iPhone 12",
+      "Категория": "Аксессуары",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 4990,
+        "stock": 8
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 5980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp"
+  },
+  {
+    "id": "109",
+    "slug": "monopod",
+    "name": "Монопод TechGear",
+    "brand": "TechGear",
+    "category": "accessories",
+    "price": 1490,
+    "oldPrice": 1700,
+    "rating": 4.5,
+    "reviews": 123,
+    "popularity": 85,
+    "isNew": false,
+    "subtitle": "Продумано до мелочей",
+    "description": "Монопод TechGear — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/109-1.webp",
+      "/images/products/109-2.webp"
+    ],
+    "specs": {
+      "Бренд": "TechGear",
+      "Модель": "Монопод TechGear",
+      "Категория": "Аксессуары",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 1490,
+        "stock": 9
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 2480,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp"
+  },
+  {
+    "id": "110",
+    "slug": "selfie-lamp-with-iphone",
+    "name": "Кольцевая лампа GadgetMaster",
+    "brand": "GadgetMaster",
+    "category": "accessories",
+    "price": 3490,
+    "rating": 4.6,
+    "reviews": 130,
+    "popularity": 84,
+    "isNew": false,
+    "subtitle": "Продумано до мелочей",
+    "description": "Кольцевая лампа GadgetMaster — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/110-1.webp"
+    ],
+    "specs": {
+      "Бренд": "GadgetMaster",
+      "Модель": "Кольцевая лампа GadgetMaster",
+      "Категория": "Аксессуары",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 3490,
+        "stock": 10
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 4480,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
+  },
+  {
+    "id": "111",
+    "slug": "selfie-stick-monopod",
+    "name": "Монопод SnapTech",
+    "brand": "SnapTech",
+    "category": "accessories",
+    "price": 1990,
+    "rating": 4.7,
+    "reviews": 137,
+    "popularity": 83,
+    "isNew": false,
+    "subtitle": "Продумано до мелочей",
+    "description": "Монопод SnapTech — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/111-1.webp"
+    ],
+    "specs": {
+      "Бренд": "SnapTech",
+      "Модель": "Монопод SnapTech",
+      "Категория": "Аксессуары",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 1990,
+        "stock": 11
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 2980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp"
+  },
+  {
+    "id": "112",
+    "slug": "tv-studio-camera-pedestal",
+    "name": "Стойка ProVision Studio",
+    "brand": "ProVision",
+    "category": "accessories",
+    "price": 39990,
+    "oldPrice": 45200,
+    "rating": 4.8,
+    "reviews": 144,
+    "popularity": 82,
+    "isNew": false,
+    "subtitle": "Продумано до мелочей",
+    "description": "Стойка ProVision Studio — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/112-1.webp"
+    ],
+    "specs": {
+      "Бренд": "ProVision",
+      "Модель": "Стойка ProVision Studio",
+      "Категория": "Аксессуары",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 39990,
+        "stock": 0
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 40980,
+        "stock": 0
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp"
+  },
+  {
+    "id": "121",
+    "slug": "iphone-5s",
+    "name": "iPhone 5s",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 7990,
+    "rating": 4.9,
+    "reviews": 151,
+    "popularity": 81,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "iPhone 5s — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/121-1.webp",
+      "/images/products/121-2.webp",
+      "/images/products/121-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "iPhone 5s",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 7990,
+        "stock": 4
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 8980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp"
+  },
+  {
+    "id": "122",
+    "slug": "iphone-6",
+    "name": "iPhone 6",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 9990,
+    "rating": 4.5,
+    "reviews": 158,
+    "popularity": 80,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "iPhone 6 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/122-1.webp",
+      "/images/products/122-2.webp",
+      "/images/products/122-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "iPhone 6",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 9990,
+        "stock": 5
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 10980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp"
+  },
+  {
+    "id": "123",
+    "slug": "iphone-13-pro",
+    "name": "iPhone 13 Pro",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 64990,
+    "oldPrice": 73400,
+    "rating": 4.6,
+    "reviews": 165,
+    "popularity": 980,
+    "isNew": true,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "iPhone 13 Pro — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/123-1.webp",
+      "/images/products/123-2.webp",
+      "/images/products/123-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "iPhone 13 Pro",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 64990,
+        "stock": 6
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 65980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp"
+  },
+  {
+    "id": "124",
+    "slug": "iphone-x",
+    "name": "iPhone X",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 24990,
+    "rating": 4.7,
+    "reviews": 172,
+    "popularity": 78,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "iPhone X — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/124-1.webp",
+      "/images/products/124-2.webp",
+      "/images/products/124-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "iPhone X",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 24990,
+        "stock": 7
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 25980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp"
+  },
+  {
+    "id": "125",
+    "slug": "oppo-a57",
+    "name": "Oppo A57",
+    "brand": "Oppo",
+    "category": "smartphones",
+    "price": 13990,
+    "rating": 4.8,
+    "reviews": 179,
+    "popularity": 77,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Oppo A57 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/125-1.webp",
+      "/images/products/125-2.webp",
+      "/images/products/125-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Oppo",
+      "Модель": "Oppo A57",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 13990,
+        "stock": 8
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 14980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp"
+  },
+  {
+    "id": "126",
+    "slug": "oppo-f19-pro-plus",
+    "name": "Oppo F19 Pro Plus",
+    "brand": "Oppo",
+    "category": "smartphones",
+    "price": 23990,
+    "oldPrice": 27100,
+    "rating": 4.9,
+    "reviews": 186,
+    "popularity": 76,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Oppo F19 Pro Plus — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/126-1.webp",
+      "/images/products/126-2.webp",
+      "/images/products/126-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Oppo",
+      "Модель": "Oppo F19 Pro Plus",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 23990,
+        "stock": 9
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 24980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp"
+  },
+  {
+    "id": "127",
+    "slug": "oppo-k1",
+    "name": "Oppo K1",
+    "brand": "Oppo",
+    "category": "smartphones",
+    "price": 15990,
+    "rating": 4.5,
+    "reviews": 193,
+    "popularity": 75,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Oppo K1 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/127-1.webp",
+      "/images/products/127-2.webp",
+      "/images/products/127-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Oppo",
+      "Модель": "Oppo K1",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 15990,
+        "stock": 10
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 16980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp"
+  },
+  {
+    "id": "128",
+    "slug": "realme-c35",
+    "name": "Realme C35",
+    "brand": "Realme",
+    "category": "smartphones",
+    "price": 12990,
+    "rating": 4.6,
+    "reviews": 200,
+    "popularity": 74,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Realme C35 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/128-1.webp",
+      "/images/products/128-2.webp",
+      "/images/products/128-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Realme",
+      "Модель": "Realme C35",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 12990,
+        "stock": 11
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 13980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp"
+  },
+  {
+    "id": "129",
+    "slug": "realme-x",
+    "name": "Realme X",
+    "brand": "Realme",
+    "category": "smartphones",
+    "price": 19990,
+    "oldPrice": 22600,
+    "rating": 4.7,
+    "reviews": 207,
+    "popularity": 73,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Realme X — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/129-1.webp",
+      "/images/products/129-2.webp",
+      "/images/products/129-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Realme",
+      "Модель": "Realme X",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 19990,
+        "stock": 3
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 20980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/1.webp"
+  },
+  {
+    "id": "130",
+    "slug": "realme-xt",
+    "name": "Realme XT",
+    "brand": "Realme",
+    "category": "smartphones",
+    "price": 21990,
+    "rating": 4.8,
+    "reviews": 214,
+    "popularity": 72,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Realme XT — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/130-1.webp",
+      "/images/products/130-2.webp",
+      "/images/products/130-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Realme",
+      "Модель": "Realme XT",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 21990,
+        "stock": 4
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 22980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp"
+  },
+  {
+    "id": "131",
+    "slug": "samsung-galaxy-s7",
+    "name": "Samsung Galaxy S7",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 11990,
+    "rating": 4.9,
+    "reviews": 221,
+    "popularity": 71,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Samsung Galaxy S7 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/131-1.webp",
+      "/images/products/131-2.webp",
+      "/images/products/131-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Samsung",
+      "Модель": "Samsung Galaxy S7",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 11990,
+        "stock": 5
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 12980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp"
+  },
+  {
+    "id": "132",
+    "slug": "samsung-galaxy-s8",
+    "name": "Samsung Galaxy S8",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 15990,
+    "oldPrice": 18100,
+    "rating": 4.5,
+    "reviews": 228,
+    "popularity": 70,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Samsung Galaxy S8 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/132-1.webp",
+      "/images/products/132-2.webp",
+      "/images/products/132-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Samsung",
+      "Модель": "Samsung Galaxy S8",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 15990,
+        "stock": 6
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 16980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp"
+  },
+  {
+    "id": "133",
+    "slug": "samsung-galaxy-s10",
+    "name": "Samsung Galaxy S10",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 27990,
+    "rating": 4.6,
+    "reviews": 235,
+    "popularity": 69,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Samsung Galaxy S10 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/133-1.webp",
+      "/images/products/133-2.webp",
+      "/images/products/133-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Samsung",
+      "Модель": "Samsung Galaxy S10",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 27990,
+        "stock": 7
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 28980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp"
+  },
+  {
+    "id": "134",
+    "slug": "vivo-s1",
+    "name": "Vivo S1",
+    "brand": "Vivo",
+    "category": "smartphones",
+    "price": 13990,
+    "rating": 4.7,
+    "reviews": 242,
+    "popularity": 68,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Vivo S1 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/134-1.webp",
+      "/images/products/134-2.webp",
+      "/images/products/134-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Vivo",
+      "Модель": "Vivo S1",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 13990,
+        "stock": 8
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 14980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp"
+  },
+  {
+    "id": "135",
+    "slug": "vivo-v9",
+    "name": "Vivo V9",
+    "brand": "Vivo",
+    "category": "smartphones",
+    "price": 12990,
+    "oldPrice": 14700,
+    "rating": 4.8,
+    "reviews": 249,
+    "popularity": 67,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Vivo V9 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/135-1.webp",
+      "/images/products/135-2.webp",
+      "/images/products/135-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Vivo",
+      "Модель": "Vivo V9",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 12990,
+        "stock": 9
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 13980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/1.webp"
+  },
+  {
+    "id": "136",
+    "slug": "vivo-x21",
+    "name": "Vivo X21",
+    "brand": "Vivo",
+    "category": "smartphones",
+    "price": 18990,
+    "rating": 4.9,
+    "reviews": 256,
+    "popularity": 66,
+    "isNew": false,
+    "subtitle": "Всё важное — в ваших руках",
+    "description": "Vivo X21 — общение, фотографии и любимые приложения в одном устройстве. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/136-1.webp",
+      "/images/products/136-2.webp",
+      "/images/products/136-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Vivo",
+      "Модель": "Vivo X21",
+      "Категория": "Смартфоны",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое",
+      "Тип устройства": "Смартфон",
+      "Экран": "Сенсорный",
+      "Связь": "Wi-Fi, Bluetooth",
+      "Память": "Базовая версия"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 18990,
+        "stock": 10
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 19980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp"
+  },
+  {
+    "id": "159",
+    "slug": "ipad-mini-2021-starlight",
+    "name": "iPad mini",
+    "brand": "Apple",
+    "category": "tablets",
+    "price": 49990,
+    "rating": 4.5,
+    "reviews": 263,
+    "popularity": 65,
+    "isNew": false,
+    "subtitle": "Больше пространства для идей",
+    "description": "iPad mini — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/159-1.webp",
+      "/images/products/159-2.webp",
+      "/images/products/159-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Apple",
+      "Модель": "iPad mini",
+      "Категория": "Планшеты",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 49990,
+        "stock": 11
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 50980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp"
+  },
+  {
+    "id": "160",
+    "slug": "samsung-galaxy-tab-s8-plus-grey",
+    "name": "Galaxy Tab S8+",
+    "brand": "Samsung",
+    "category": "tablets",
+    "price": 69990,
+    "oldPrice": 79100,
+    "rating": 4.6,
+    "reviews": 270,
+    "popularity": 960,
+    "isNew": true,
+    "subtitle": "Больше пространства для идей",
+    "description": "Galaxy Tab S8+ — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/160-1.webp",
+      "/images/products/160-2.webp",
+      "/images/products/160-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Samsung",
+      "Модель": "Galaxy Tab S8+",
+      "Категория": "Планшеты",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 69990,
+        "stock": 3
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 70980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp"
+  },
+  {
+    "id": "161",
+    "slug": "samsung-galaxy-tab-white",
+    "name": "Samsung Galaxy Tab",
+    "brand": "Samsung",
+    "category": "tablets",
+    "price": 19990,
+    "rating": 4.7,
+    "reviews": 277,
+    "popularity": 63,
+    "isNew": false,
+    "subtitle": "Больше пространства для идей",
+    "description": "Samsung Galaxy Tab — продуманная техника для комфортного дня. Лаконичный дизайн, удобство каждый день и внимание к деталям. Выберите комплект, который подходит именно вам.",
+    "images": [
+      "/images/products/161-1.webp",
+      "/images/products/161-2.webp",
+      "/images/products/161-3.webp"
+    ],
+    "specs": {
+      "Бренд": "Samsung",
+      "Модель": "Samsung Galaxy Tab",
+      "Категория": "Планшеты",
+      "Комплектация": "Устройство, документация, фирменная упаковка",
+      "Гарантия": "12 месяцев (демо)",
+      "Состояние": "Новое"
+    },
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Стандартный",
+        "price": 19990,
+        "stock": 4
+      },
+      {
+        "id": "gift",
+        "label": "Подарочный",
+        "price": 20980,
+        "stock": 2
+      }
+    ],
+    "source": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp"
+  }
+]
